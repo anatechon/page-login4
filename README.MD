@@ -1,64 +1,76 @@
-🟩💻 Hacker Login Screen – HTML, CSS e JavaScript
+<div align="center">
 
+# 🟩💻 Hacker Login Screen  
+### HTML • CSS • JavaScript
 
-Uma tela de login temática hacker, com animações contínuas de códigos fluindo pela tela, efeito digitado e atmosfera cyberpunk/terminal.
+Uma tela de login temática hacker, com animações contínuas de códigos, efeito digitado e estética cyberpunk/terminal.
 
+</div>
 
-✨ Funcionalidades
-🟩 Fundo animado com textos estilo “código hacker”
+---
 
-🟩 Layout inspirado em terminais e UIs cyberpunk
+## ✨ Funcionalidades
 
-🟩 Efeito de digitação / linhas aparecendo dinamicamente
+| Recurso | Descrição |
+|--------|-----------|
+| 🟩 **Fundo animado** | Códigos fluindo como terminal hacker |
+| 🟩 **Tema cyberpunk/terminal** | Visual inspirado em UIs hacking |
+| 🟩 **Efeito de digitação** | Linhas aparecendo dinamicamente |
+| 🟩 **Formulário estilizado** | Interface minimalista estilo terminal |
+| 🟩 **Totalmente responsivo** | Se adapta a qualquer tela |
+| 🟩 **Validação em JavaScript** | Verificação simples e funcional |
 
-🟩 Formulário estilizado no estilo hacking terminal
+---
 
-🟩 Design totalmente responsivo
+## 🛠️ Tecnologias Utilizadas
 
-🟩 Validação simples com JavaScript
-
-
-🛠️ Tecnologias Utilizadas
 HTML5 – Estrutura base
-
-CSS3 – Animações, terminal UI e efeitos visuais
-
+CSS3 – Animações e estética terminal
 JavaScript – Efeito digitado e fluxo de códigos
 
+yaml
+Copiar código
 
-📁 Estrutura do Projeto:
-│── index.html
-│── style.css
-│── script.js
+---
 
+## 📁 Estrutura do Projeto
 
-🚀 Como Executar:
+/project
+├── index.html
+├── style.css
+└── script.js
 
-Faça o download ou clone o repositório:
+---
 
-git clone (LINK DO REPOSITORIO)
+## 🚀 Como Executar
 
+1. Faça o download ou clone o repositório:  
+   ```bash
+   git clone (LINK DO REPOSITORIO)
 Abra o arquivo index.html no navegador.
 
 A animação de códigos iniciará automaticamente.
 
-
 🔧 Como Personalizar
+Você pode modificar:
 
-Você pode alterar:
-🔠 Texto que aparece na animação (em script.js)
+🔠 Texto da animação (script.js)
 
-🎨 Cores (verde, roxo, neon, etc.)
+🎨 Cores (verde, roxo, neon, azul, vermelho etc.)
 
-⚡ Velocidade dos códigos
+⚡ Velocidade do fluxo de códigos
 
-🔊 Adicionar sons de digitação (opcional)
+🔊 Sons de digitação (opcional)
 
-🖥️ Fonte estilo terminal
+🖥️ Fonte estilo terminal (ex: Fira Code, VT323)
 
-
-🌐 Minhas Redes Sociais:
-
+🌐 Minhas Redes Sociais
 📸 Instagram: https://www.instagram.com/anatecch
 
 💼 LinkedIn: https://www.linkedin.com/in/anagfeitosa
+
+<div align="center">
+Feito em modo Hacker ON |
+por Ana Tech
+
+</div> ```
