@@ -4,15 +4,22 @@ Uma tela de login temática hacker, com animações contínuas de códigos fluin
 
 ✨ Funcionalidades
 🟩 Fundo animado com textos estilo “código hacker”
+
 🟩 Layout inspirado em terminais e UIs cyberpunk
+
 🟩 Efeito de digitação / linhas aparecendo dinamicamente
+
 🟩 Formulário estilizado no estilo hacking terminal
+
 🟩 Design totalmente responsivo
+
 🟩 Validação simples com JavaScript
 
 🛠️ Tecnologias Utilizadas
 HTML5 – Estrutura base
+
 CSS3 – Animações, terminal UI e efeitos visuais
+
 JavaScript – Efeito digitado e fluxo de códigos
 
 📁 Estrutura do Projeto:
@@ -24,6 +31,7 @@ JavaScript – Efeito digitado e fluxo de códigos
 🚀 Como Executar:
 
 Faça o download ou clone o repositório:
+
 git clone (LINK DO REPOSITORIO)
 
 
@@ -34,7 +42,9 @@ A animação de códigos iniciará automaticamente.
 
 Você pode alterar:
 🔠 Texto que aparece na animação (em script.js)
+
 🎨 Cores (verde, roxo, neon, etc.)
+
 ⚡ Velocidade dos códigos
 🔊 Adicionar sons de digitação (opcional)
 🖥️ Fonte estilo terminal
@@ -42,4 +52,5 @@ Você pode alterar:
 🌐 Minhas Redes Sociais:
 
 📸 Instagram: https://www.instagram.com/anatecch
+
 💼 LinkedIn: https://www.linkedin.com/in/anagfeitosa
